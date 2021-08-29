@@ -1,4 +1,4 @@
-name: CI/CD for Serverless Application
+name: CI for Serverless Application
 
 # Controls when the workflow will run
 on:
